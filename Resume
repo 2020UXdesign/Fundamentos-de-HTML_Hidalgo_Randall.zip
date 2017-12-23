@@ -1,0 +1,242 @@
+# Fundamentos-de-HTML_Hidalgo_Randall.zip
+<!doctype html>
+<html>
+<body>
+
+     <title>Resume</title>
+   </head>
+   <body>
+
+     <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+     <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+     <svg
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:cc="http://creativecommons.org/ns#"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:svg="http://www.w3.org/2000/svg"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        width="90mm"
+        height="90mm"
+        viewBox="0 0 210 297"
+        version="1.1"
+        id="svg8"
+        inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+        sodipodi:docname="drawing LOGO.svg">
+       <defs
+          id="defs2" />
+       <sodipodi:namedview
+          id="base"
+          pagecolor="#ffffff"
+          bordercolor="#666666"
+          borderopacity="1.0"
+          inkscape:pageopacity="0.0"
+          inkscape:pageshadow="2"
+          inkscape:zoom="0.35"
+          inkscape:cx="400"
+          inkscape:cy="579.73"
+          inkscape:document-units="mm"
+          inkscape:current-layer="layer1"
+          showgrid="false"
+          inkscape:snap-text-baseline="true"
+          inkscape:window-width="1720"
+          inkscape:window-height="990"
+          inkscape:window-x="-9"
+          inkscape:window-y="-9"
+          inkscape:window-maximized="1" />
+       <metadata
+          id="metadata5">
+         <rdf:RDF>
+           <cc:Work
+              rdf:about="">
+             <dc:format>image/svg+xml</dc:format>
+             <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+             <dc:title></dc:title>
+           </cc:Work>
+         </rdf:RDF>
+       </metadata>
+       <g
+          inkscape:label="Layer 1"
+          inkscape:groupmode="layer"
+          id="layer1">
+         <path
+            sodipodi:type="star"
+            style="fill:#00ff00;stroke-width:0.26458332"
+            id="path10"
+            sodipodi:sides="5"
+            sodipodi:cx="100.54167"
+            sodipodi:cy="129.17857"
+            sodipodi:r1="99.055725"
+            sodipodi:r2="49.527863"
+            sodipodi:arg1="0.90439846"
+            sodipodi:arg2="1.532717"
+            inkscape:flatsided="false"
+            inkscape:rounded="0"
+            inkscape:randomized="0"
+            d="M 161.77381,207.04167 102.4272,178.67053 45.411241,211.47482 54.054684,146.26568 5.2370498,102.17736 69.925601,90.247026 96.770607,30.194657 128.10689,88.03045 l 65.40876,6.973916 -45.32167,47.674814 z"
+            inkscape:transform-center-x="1.1653245"
+            inkscape:transform-center-y="-8.3438364" />
+         <path
+            sodipodi:type="star"
+            style="fill:#00ff00;stroke-width:0.26458332"
+            id="path12"
+            sodipodi:sides="5"
+            sodipodi:cx="99.029755"
+            sodipodi:cy="125.39881"
+            sodipodi:r1="15.194455"
+            sodipodi:r2="7.5972271"
+            sodipodi:arg1="1.670465"
+            sodipodi:arg2="2.2987835"
+            inkscape:flatsided="false"
+            inkscape:rounded="0"
+            inkscape:randomized="0"
+            d="m 97.51785,140.51786 -3.54305,-9.4476 -9.791319,-2.43731 7.890342,-6.28911 -0.707665,-10.06527 8.419549,5.56072 9.353953,-3.78337 -2.68677,9.72582 6.48873,7.72702 -10.08007,0.45017 z"
+            inkscape:transform-center-x="0.46720551"
+            inkscape:transform-center-y="0.99940132" />
+         <text
+            xml:space="preserve"
+            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:12.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:1.78064585px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+            x="91.366158"
+            y="112.27857"
+            id="text16"><tspan
+              sodipodi:role="line"
+              id="tspan14"
+              x="91.366158"
+              y="112.27857"
+              style="stroke-width:0.26458332">R H</tspan></text>
+       </g>
+     </svg>
+
+     <h1>Curriculum Vitae</h1>
+       <h2>Datos Personales</h2>
+       <h2>Informacion personal</h2>
+         <h3>1.Nombre: Randall Quiros</h3>
+         <h3>2.fecha de nacimiento: 08 1968</h3>
+         <h3>3.Lugar de nacimiento: San Jose</h3>
+
+     <img src="estudiando.jpg" alt="Imagen Estudiando" title="imagen estudiando" width="50px" height="50"/>
+
+
+
+  <h3>Enlaces de Menu</h3>
+
+    <a href="C:\Users\randall\Desktop\Inicio.html">inicio.html</a>
+    <a href="C:\Users\randall\Desktop\educacion.html">educacion.html</a>
+    <a href="C:\Users\randall\Desktop\experiencia.html">experiencia.html</a>
+
+
+
+    <h3>Educacion :</h3>
+
+
+
+<table border="2px">
+   <tr>
+
+                 <th>Year</th>
+                 <th>Institucion</th>
+                 <th>Lugar</th>
+                 <th>Culmino?</th>
+             </tr>
+             <tr>
+                 <td colspan="1">2015</td>
+                 <td colspan="2">titulo</td>
+                 <td colspan="3">Completo</td>
+
+
+             <tr>
+                 <td>curso web</td>
+                 <td>developer</td>
+                 <td>San Pedro</td>
+                 <td>SI</td>
+
+             </tr>
+         </table>
+
+
+       <h2>Agregar Estudios</h2>
+       <h3>A&ntildeo:</h3>
+
+       <select>
+            <option value"1">2015</option>
+            <option value"2">2016</option>
+      </select>
+    
+
+           <table>
+             <tr><td>
+               <table>
+                 <tr>
+                   <TD align=><h3>Institucion:</h3></TD><TD align="left"><INPUT type="text" name="Institucion" size="0.5"></TD>
+                 </tr>
+
+               </table>
+
+           <table>
+             <tr><td>
+               <table>
+                 <tr>
+                   <TD align=><h3>Lugar:</h3></TD><TD align="left"><INPUT type="text" name="Lugar" size="0.5"></TD>
+               </tr>
+
+             </table>
+
+  <h3>Culmino?</h3>
+             <input type="radio"><input value="SI">
+             <input type="radio"><input value="NO">
+
+
+
+                           <input type="button" value="enviar">
+
+
+
+
+    <h2>Experiencia:</h32>
+
+      <h3>Video</h3>
+       <video src="video.mp4" controls></video>
+
+
+
+      <h3>Audio</h3>
+          <audio src="audio.mp3" controls play></audio>
+
+
+
+
+
+      <h2>Perfil</h2>
+
+    <p>Mis habilidades como profesional las he ido
+      desarrolando atravez del tiempo que he trabajado en esta rama de la informatica
+      ahora con el desarrollo de paginas web despierto otras habilidades.</p>
+    <p>Para alcanzar un mejor futuro profesional cuando concluya mi carrera universitaria. Agregando valor
+       el certificacion en desarrollo web, que concidero me aporta gran conocimiento para la Licenciatura.</p>
+
+
+<h3>Idiomas</h3>
+    <ul>
+
+      <li>Ingles</li>
+      <li>Espanol</li>
+</ul>
+
+<h2>Pie de Pagina</h2>
+
+<h3>Email: hidalgoqr@aol.com</h3>
+ <h3>Phone: 560 8706 6000</h3>
+ <h3>Facebook</h3>
+ <a href="facebook">https://www.facebook.com/</a>
+
+
+<h3>footer</h3>
+
+  <p><class="texto">Derechos Reservados &copy;-rhwebs</p>
+
+
+  </body>
+  </html>
